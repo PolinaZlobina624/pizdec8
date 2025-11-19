@@ -1,0 +1,21 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="RestaurantApp.Views.MainWindow"
+        Title="Панель управления рестораном"
+        Width="800"
+        Height="600">
+    <TabControl>
+        <TabItem Header="Заказы">
+            <ListView Items="{Binding Orders}" />
+        </TabItem>
+        <TabItem Header="Персонал">
+            <ListView Items="{Binding Employees}" />
+        </TabItem>
+        <TabItem Header="Столы">
+            <ListView Items="{Binding Tables}" />
+        </TabItem>
+        <TabItem Header="Меню">
+            <ListView Items="{Binding MenuItems}" />
+        </TabItem>
+    </TabControl>
+</Window>

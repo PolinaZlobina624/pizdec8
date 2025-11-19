@@ -1,0 +1,4 @@
+/home/gr624_zlpdm/RiderProjects/ConsoleApp2/cafe/obj/Debug/net9.0/cafe.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_zlpdm/RiderProjects/ConsoleApp2/cafe/obj/Debug/net9.0/cafe.AssemblyInfoInputs.cache
+/home/gr624_zlpdm/RiderProjects/ConsoleApp2/cafe/obj/Debug/net9.0/cafe.AssemblyInfo.cs
+/home/gr624_zlpdm/RiderProjects/ConsoleApp2/cafe/obj/Debug/net9.0/cafe.csproj.CoreCompileInputs.cache
